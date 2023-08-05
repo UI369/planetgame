@@ -30,7 +30,7 @@ export class EventEmitter {
 // // Create a new EventEmitter instance
 // let eventSystem = new EventEmitter();
 
-// // Subscribe to an event named 'eventName'
+// // Subscribe to an event named 'eventName' and provide a callback function
 // let subscription = eventSystem.subscribe('eventName', (arg1, arg2) => {
 //   console.log('Event happened with arguments:', arg1, arg2);
 // });
